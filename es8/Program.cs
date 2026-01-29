@@ -6,10 +6,10 @@
         {
             Console.WriteLine("Dammi una parola");
             string parola = Console.ReadLine();
-            char[] Parola = parola.ToCharArray();
-            for (int i = Parola.Length - 1; i>= 0; i--)
+            char[] ParolaT = parola.ToCharArray();
+            for (int i = ParolaT.Length - 1; i>= 0; i--)
             {
-                Console.Write(Parola[i]);
+                Console.Write(ParolaT[i]);
             }
         }
     }
