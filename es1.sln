@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "es8", "es8\es8.csproj", "{6
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "es9", "es9\es9.csproj", "{D780F891-16E9-48CC-AB5A-D2A85E54659A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "es10", "es10\es10.csproj", "{05A01AD7-C5E2-4423-8B89-FE05D608A04E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{D780F891-16E9-48CC-AB5A-D2A85E54659A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D780F891-16E9-48CC-AB5A-D2A85E54659A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D780F891-16E9-48CC-AB5A-D2A85E54659A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05A01AD7-C5E2-4423-8B89-FE05D608A04E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05A01AD7-C5E2-4423-8B89-FE05D608A04E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05A01AD7-C5E2-4423-8B89-FE05D608A04E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05A01AD7-C5E2-4423-8B89-FE05D608A04E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
